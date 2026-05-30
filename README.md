@@ -2,6 +2,14 @@
 
 ## Robotics Researcher | Real-Time Perception Systems
 
+<p align="center">
+  <img src="images/figure 4.5.png" width="1000">
+</p>
+
+<p align="center">
+  <b>End-to-End Real-Time Tactile Human-Robot Handover System</b>
+</p>
+
 Building tactile intelligence for human-robot collaboration through Deep Learning, Computer Vision, and Physical Robotics.
 
 I am an **M.Sc. Researcher at Tel Aviv University** specializing in real-time robotic perception system operating at the intersection of:
@@ -158,6 +166,14 @@ My engineering background extends beyond AI and Robotics into large-scale indust
 
 ## 🤖 Tactile-Handover-Transformer
 
+<p align="center">
+  <img src="images/figure 3.2.png" width="900">
+</p>
+
+<p align="center">
+  <b>Real-Time Deployment Pipeline</b>
+</p>
+
 ### Real-Time Tactile Human-Robot Handover Recognition
 
 An end-to-end robotic perception-to-action framework enabling robots to detect human handover intent directly from tactile sensor feedback.
@@ -170,34 +186,6 @@ An end-to-end robotic perception-to-action framework enabling robots to detect h
 * Real-time tactile inference engine
 * Dual-gate decision logic for stable operation
 * Physical robotic validation
-
-### System Pipeline
-
-DIGIT Sensors
-
-⬇
-
-Dense Optical Flow
-
-⬇
-
-Vision Transformer (ViT)
-
-⬇
-
-Temporal Transformer
-
-⬇
-
-Dual-Gate Decision Logic
-
-⬇
-
-Robotic Gripper Actuation
-
-### Technology Stack
-
-PyTorch • ROS • OpenCV • Vision Transformers • Temporal Transformers • DIGIT Sensors • Linux • Modbus RTU
 
 ---
 
