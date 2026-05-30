@@ -1,95 +1,236 @@
 # Hi there, I'm Mor Salah 👋
 
-I am an **M.Sc. Researcher** at Tel Aviv University.My expertise lies at the intersection of applied Deep Learning, Computer Vision, and physical robotic deployment. 
+## Robotics Researcher | Real-Time Perception Systems
 
-With a unique background spanning semiconductor manufacturing engineering at ![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white), infrastructure modeling at ![Exyte](https://img.shields.io/badge/Exyte-00457C?style=flat-square&logoColor=white), manufacturing optimization at ![ADAMA](https://img.shields.io/badge/ADAMA-009639?style=flat-square&logoColor=white), and cutting-edge robotics research at ![Tel Aviv University](https://img.shields.io/badge/Tel_Aviv_University-002F6C?style=flat-square&logoColor=white), I specialize in bridging advanced AI models with low-latency, and real-time physical systems.
+Building tactile intelligence for human-robot collaboration through Deep Learning, Computer Vision, and Physical Robotics.
 
-### 🔬 Current Focus & Research
+I am an **M.Sc. Researcher at Tel Aviv University** specializing in real-time robotic perception system operating at the intersection of:
 
-**M.Sc. Thesis - Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition**
+🤖 Robotics
+🧠 Artificial Intelligence
+👁️ Computer Vision
+⚡ Real-Time Systems
 
-I develop real-time robotic perception systems that enable robots to understand human intent through tactile sensing.
-My research focuses on transforming raw tactile sensor streams into actionable robotic decisions using motion-centric representations, Vision Transformers, and temporal attention mechanisms.
+My work focuses on enabling robots to understand human intent through tactile sensing and transformer-based perception models deployed directly on physical robotic systems.
 
-**Research Highlights**
-- Built a complete ROS-based tactile perception and robotic control pipeline.
-- Developed a dense optical flow representation robust to DIGIT sensor wear and illumination artifacts.
-- Designed a hybrid Vision Transformer (ViT) + Temporal Transformer architecture for tactile sequence understanding.
-- Collected and curated a dataset of 23,000+ tactile interaction sequences from 400+ real robotic handover trials.
-- Achieved 89% accuracy on unseen objects and 87% accuracy during live robotic deployment.
-- Demonstrated real-time operation on physical robotic hardware with end-to-end tactile-to-actuation execution.
+With a unique background spanning semiconductor manufacturing engineering at Intel, infrastructure modeling at Exyte, manufacturing optimization at ADAMA, and advanced robotics research at Tel Aviv University, I specialize in bridging cutting-edge AI research with deployment-ready robotic systems.
+
+---
+
+## 🔬 Current Research
+
+### M.Sc. Thesis
+
+**Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition**
+
+Human-robot handovers require robots to understand when a human intends to take an object.
+
+My research develops an end-to-end tactile perception framework that transforms raw tactile sensor streams into robotic actions using:
+
+* Dense Optical Flow
+* Vision Transformers (ViT)
+* Temporal Transformers
+* Real-Time ROS Deployment
+* Closed-Loop Robotic Control
+
+### Research Highlights
+
+• Built a complete ROS-based tactile perception and robotic control pipeline
+
+• Developed a motion-centric tactile representation robust to DIGIT sensor degradation and illumination artifacts
+
+• Designed a hybrid Vision Transformer (ViT) + Temporal Transformer architecture
+
+• Collected and curated a dataset containing:
+
+* 23,274 tactile interaction sequences
+* 406 robotic interaction recordings
+* Unseen-object evaluation protocol
+
+• Achieved:
+
+* 89% Test Accuracy on unseen objects
+* 87% Accuracy during real-time robotic deployment
+
+• Successfully deployed on physical robotic hardware
+
+---
+
+## 📊 Research Results
+
+| Metric                        | Result                |
+| ----------------------------- | --------------------- |
+| Test Accuracy                 | 89%                   |
+| Real-Time Deployment Accuracy | 87%                   |
+| Dataset Size                  | 23,274 Sequences      |
+| Recorded Trials               | 406 Videos            |
+| Model Inference Time          | 148 ms                |
+| End-to-End System Latency     | 822 ms                |
+| Deployment Platform           | ROS Noetic            |
+| Sensor Platform               | DIGIT Tactile Sensors |
+
+---
 
 ## 🧠 Core Technical Skills
 
-### 💻 **AI & Machine Learning**
+### 💻 AI & Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
 </p>
 
-### 🛠️ Tools & Technologies
+**Core Areas**
+
+* Deep Learning
+* Vision Transformers (ViT)
+* Temporal Transformers
+* Sequence Modeling
+* Time-Series Analysis
+* Model Optimization
+* Real-Time Inference
+
+---
+
+## 🤖 Robotics & Real-Time Systems
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
 
-### 📊 Data Analytics & Visualization
+### Expertise
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
-</p>
+* Human-Robot Interaction (HRI)
+* Vision-Based Tactile Sensing
+* DIGIT Tactile Sensors
+* Robotiq 2F-85 Integration
+* ROS Noetic
+* Real-Time Robotic Perception
+* Closed-Loop Control Systems
+* Finite State Machines (FSM)
+* Multi-Threaded Architectures
+* Modbus RTU Communication
+* Deployment on Physical Hardware
 
-🧩 Systems & Robotics Engineering
+---
 
-- Real-Time Robotic Perception Systems
-- Human-Robot Interaction (HRI)
-- Vision-Based Tactile Sensing (DIGIT)
-- ROS-Based Distributed Architectures
-- Closed-Loop Perception-to-Action Pipelines
-- Transformer-Based Temporal Modeling
-- Vision Transformers (ViT)
-- Dense Optical Flow & Motion Representation Learning
-- Finite State Machines (FSM) for Robotic Control
-- Modbus RTU & Industrial Device Communication
-- Low-Latency Inference Optimization
-- Sensor Fusion & Multi-Stage Decision Logic
-- Robotic System Integration & Validation
+## 👁️ Computer Vision
+
+* Dense Optical Flow (Farnebäck)
+* Motion Representation Learning
+* Feature Extraction
+* Image Processing
+* Sensor Noise Filtering
+* Temporal Feature Analysis
+* Vision-Based Tactile Perception
+
+---
+
+## ⚙️ Systems Engineering
+
+### Industrial Engineering Background
+
+My engineering background extends beyond AI and Robotics into large-scale industrial systems.
+
+**Intel**
+
+* Statistical Process Control (SPC)
+* Root Cause Analysis
+* Design of Experiments (DOE)
+
+**ADAMA**
+
+* Production System Validation
+* Process-Mechanical Troubleshooting
+* Facility Commissioning
+
+**Exyte**
+
+* Predictive Modeling
+* Infrastructure Simulation
+* Technical Roadmapping
+
+---
+
+# 📈 Featured Project
 
 ## 🤖 Tactile-Handover-Transformer
 
-Real-Time Tactile Human-Robot Handover Recognition using Vision Transformers and Temporal Attention
+### Real-Time Tactile Human-Robot Handover Recognition
 
-### Overview
-A complete robotic perception-to-action framework enabling robots to detect human handover intent directly from tactile sensor feedback.
+An end-to-end robotic perception-to-action framework enabling robots to detect human handover intent directly from tactile sensor feedback.
 
 ### Key Contributions
-• Designed a motion-centric tactile perception pipeline based on dense optical flow.
-• Developed a hybrid ViT + Temporal Transformer architecture for interaction-state recognition.
-• Built a ROS-integrated deployment framework connecting perception, decision making, and robotic actuation.
-• Implemented dual-gate decision logic for stable real-world operation.
-• Evaluated on unseen objects and validated through live robotic handover experiments.
 
-### Results
-🏆 89% Test Accuracy on unseen objects
+* Dense Optical Flow tactile preprocessing pipeline
+* Hybrid ViT + Temporal Transformer architecture
+* ROS-integrated deployment framework
+* Real-time tactile inference engine
+* Dual-gate decision logic for stable operation
+* Physical robotic validation
 
-🏆 87% Real-Time Deployment Accuracy
+### System Pipeline
 
-🏆 23,000+ tactile interaction sequences
+DIGIT Sensors
 
-🏆 400+ recorded robotic interaction trials
+⬇
 
-🏆 End-to-End tactile sensing → robotic release pipeline
+Dense Optical Flow
 
-### Tech Stack
-PyTorch • ROS • OpenCV • Vision Transformers • Temporal Transformers • DIGIT Sensors • Modbus RTU • Linux
+⬇
 
-### 🤝 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/mor-salah](https://www.linkedin.com/in/mor-salah/) 
-* 📧 **Email:** morsalah55@gmail.com
-* 📍 **Location:** Beer Sheva, Israel
+Vision Transformer (ViT)
+
+⬇
+
+Temporal Transformer
+
+⬇
+
+Dual-Gate Decision Logic
+
+⬇
+
+Robotic Gripper Actuation
+
+### Technology Stack
+
+PyTorch • ROS • OpenCV • Vision Transformers • Temporal Transformers • DIGIT Sensors • Linux • Modbus RTU
+
+---
+
+## 📚 Publications
+
+### Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition
+
+Submitted to:
+
+**IEEE Robotics and Automation Letters (RA-L)**
+
+First Author
+
+2026
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/mor-salah/
+
+📧 Email
+[morsalah55@gmail.com](mailto:morsalah55@gmail.com)
+
+📍 Location
+Beer Sheva, Israel
+
