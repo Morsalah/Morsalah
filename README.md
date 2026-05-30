@@ -6,7 +6,7 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
 
 ### 🔬 Current Focus & Research
 
-**M.Sc. Thesis — Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition**
+**M.Sc. Thesis - Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition**
 
 I develop real-time robotic perception systems that enable robots to understand human intent through tactile sensing.
 My research focuses on transforming raw tactile sensor streams into actionable robotic decisions using motion-centric representations, Vision Transformers, and temporal attention mechanisms.
