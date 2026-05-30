@@ -2,7 +2,7 @@
 
 I am an **M.Sc. Researcher** at Tel Aviv University.My expertise lies at the intersection of applied Deep Learning, Computer Vision, and physical robotic deployment. 
 
-With a unique background spanning semiconductor manufacturing engineering at **Intel**, infrastructure modeling at **Exyte**, and cutting-edge robotics research, I specialize in bridging advanced AI models with low-latency, real-time physical systems.
+With a unique background spanning semiconductor manufacturing engineering at ![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white), infrastructure modeling at ![Exyte](https://img.shields.io/badge/Exyte-00457C?style=flat-square&logoColor=white), manufacturing optimization at ![ADAMA](https://img.shields.io/badge/ADAMA-009639?style=flat-square&logoColor=white), and cutting-edge robotics research at ![Tel Aviv University](https://img.shields.io/badge/Tel__Aviv__University-002F6C?style=flat-square&logoColor=white), I specialize in bridging advanced AI models with low-latency, and real-time physical systems.
 
 ---
 
@@ -12,8 +12,6 @@ With a unique background spanning semiconductor manufacturing engineering at **I
 * **Key Achievements:** Built a ROS-integrated pipeline using a Vision Transformer (ViT) and temporal transformers, achieving **90% accuracy** with **~148ms latency** on physical robotic hardware.
 
 ---
-
-### 🛠️ Technical Toolbox
 
 ### 🛠️ Technical Toolbox
 
