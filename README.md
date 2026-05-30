@@ -1,6 +1,6 @@
 # Hi there, I'm Mor Salah 👋
 
-## Robotics Researcher | Real-Time Perception Systems
+## Robotics Researcher | Real-Time Perception System
 
 <p align="center">
   <img src="images/figure 4.5.png" width="1000">
