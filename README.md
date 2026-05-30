@@ -2,19 +2,26 @@
 
 I am an **M.Sc. Researcher** at Tel Aviv University.My expertise lies at the intersection of applied Deep Learning, Computer Vision, and physical robotic deployment. 
 
-With a unique background spanning semiconductor manufacturing engineering at ![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white), infrastructure modeling at ![Exyte](https://img.shields.io/badge/Exyte-00457C?style=flat-square&logoColor=white), manufacturing optimization at ![ADAMA](https://img.shields.io/badge/ADAMA-009639?style=flat-square&logoColor=white), and cutting-edge robotics research at ![Tel Aviv University](https://img.shields.io/badge/Tel_Aviv__University-002F6C?style=flat-square&logoColor=white), I specialize in bridging advanced AI models with low-latency, and real-time physical systems.
-
----
+With a unique background spanning semiconductor manufacturing engineering at ![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white), infrastructure modeling at ![Exyte](https://img.shields.io/badge/Exyte-00457C?style=flat-square&logoColor=white), manufacturing optimization at ![ADAMA](https://img.shields.io/badge/ADAMA-009639?style=flat-square&logoColor=white), and cutting-edge robotics research at ![Tel Aviv University](https://img.shields.io/badge/Tel_Aviv_University-002F6C?style=flat-square&logoColor=white), I specialize in bridging advanced AI models with low-latency, and real-time physical systems.
 
 ### 🔬 Current Focus & Research
-* **M.Sc.Thesis:** Tactile-Based Human Intent Prediction for Robotic Object Handover.
-* **The Core Challenge:** Developing end-to-end, real-time spatial-temporal pipelines to predict grasp/release states during human-robot interaction (HRI).
-* **Key Achievements:** Built a ROS-integrated pipeline using a Vision Transformer (ViT) and temporal transformers, achieving **90% accuracy** with **~148ms latency** on physical robotic hardware.
 
----
+**M.Sc. Thesis — Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition**
+
+I develop real-time robotic perception systems that enable robots to understand human intent through tactile sensing.
+My research focuses on transforming raw tactile sensor streams into actionable robotic decisions using motion-centric representations, Vision Transformers, and temporal attention mechanisms.
+
+**Research Highlights**
+- Built a complete ROS-based tactile perception and robotic control pipeline.
+- Developed a dense optical flow representation robust to DIGIT sensor wear and illumination artifacts.
+- Designed a hybrid Vision Transformer (ViT) + Temporal Transformer architecture for tactile sequence understanding.
+- Collected and curated a dataset of 23,000+ tactile interaction sequences from 400+ real robotic handover trials.
+- Achieved 89% accuracy on unseen objects and 87% accuracy during live robotic deployment.
+- Demonstrated real-time operation on physical robotic hardware with end-to-end tactile-to-actuation execution.
+
 ## 🧠 Core Technical Skills
 
-### 💻 Languages & AI Frameworks
+### 💻 **AI & Machine Learning**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
@@ -22,10 +29,6 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
 </p>
-
-**Core Architectures:** Vision Transformers (ViT) • Transformers 
-
----
 
 ### 🛠️ Tools & Technologies
 
@@ -36,10 +39,6 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
 
-**Robotics & Vision Hardware:** DIGIT • Tactile Sensing
-
----
-
 ### 📊 Data Analytics & Visualization
 
 <p align="left">
@@ -47,39 +46,49 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
 </p>
 
-**Analytics Software:** • JMP • Microsoft Excel
+🧩 Systems & Robotics Engineering
 
-🧩 Systems & Software Engineering
-* Robotic System Integration & End-to-End Deployment
-* Real-Time Low-Latency Inference Optimization (~148ms Loop)
-* Sensation-to-Actuation Control Loops
-* Dense Optical Flow (Farnebäck) & Sensor Signal Filtering
-* Electro-Mechanical System Validation
+- Real-Time Robotic Perception Systems
+- Human-Robot Interaction (HRI)
+- Vision-Based Tactile Sensing (DIGIT)
+- ROS-Based Distributed Architectures
+- Closed-Loop Perception-to-Action Pipelines
+- Transformer-Based Temporal Modeling
+- Vision Transformers (ViT)
+- Dense Optical Flow & Motion Representation Learning
+- Finite State Machines (FSM) for Robotic Control
+- Modbus RTU & Industrial Device Communication
+- Low-Latency Inference Optimization
+- Sensor Fusion & Multi-Stage Decision Logic
+- Robotic System Integration & Validation
 
-⚙️ Process & Production Engineering
-* Statistical Process Control (SPC)
-* Design of Experiments (DOE) Workflows
-* Root-Cause Analysis & System Stabilization
-* Predictive Modeling & Scenario Simulation (Pipeflow)
-* Multi-Variable Data Synthesis & Technical Roadmapping
+## 🤖 Tactile-Handover-Transformer
 
----
+Real-Time Tactile Human-Robot Handover Recognition using Vision Transformers and Temporal Attention
 
-### 📈 Highlighted Projects
+### Overview
+A complete robotic perception-to-action framework enabling robots to detect human handover intent directly from tactile sensor feedback.
 
-#### 🤖 [Tactile-Handover-Transformer](On Going)
-*Development of an End-to-End Robotic Handover System.*
-* **What it does:** Uses DIGIT tactile sensors to capture gel deformation, processes it via dense optical flow, and classifies interaction states in real-time.
-* **Tech Stack:** PyTorch, ROS, OpenCV, Vision Transformers, Temporal Transformers.
-* **Impact:** Submitted as a first-author paper to **IEEE Robotics and Automation Letters (RA-L)**.
+### Key Contributions
+• Designed a motion-centric tactile perception pipeline based on dense optical flow.
+• Developed a hybrid ViT + Temporal Transformer architecture for interaction-state recognition.
+• Built a ROS-integrated deployment framework connecting perception, decision making, and robotic actuation.
+• Implemented dual-gate decision logic for stable real-world operation.
+• Evaluated on unseen objects and validated through live robotic handover experiments.
 
----
+### Results
+🏆 89% Test Accuracy on unseen objects
 
-### 📊 GitHub Stats
-![Mor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true)
+🏆 87% Real-Time Deployment Accuracy
 
----
+🏆 23,000+ tactile interaction sequences
+
+🏆 400+ recorded robotic interaction trials
+
+🏆 End-to-End tactile sensing → robotic release pipeline
+
+### Tech Stack
+PyTorch • ROS • OpenCV • Vision Transformers • Temporal Transformers • DIGIT Sensors • Modbus RTU • Linux
 
 ### 🤝 Connect with Me
 * 💼 **LinkedIn:** [linkedin.com/in/mor-salah](https://www.linkedin.com/in/mor-salah/) 
