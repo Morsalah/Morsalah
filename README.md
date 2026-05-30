@@ -42,7 +42,6 @@ My research focuses on transforming raw tactile sensor streams into actionable r
 ### 📊 Data Analytics & Visualization
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
 </p>
 
