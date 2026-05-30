@@ -14,13 +14,26 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
 ---
 
 ### 🛠️ Technical Toolbox
+#### 🧠 Core AI & Computer Vision
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+* **Architectures & Methods:** Vision Transformers (ViT), Temporal/Time-Series Modeling, Spatio-Temporal Sequences.
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Core AI & Computer Vision** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) <br> **Deep Learning & Sequence Modeling:** Vision Transformers (ViT), Temporal/Time-Series Modeling |
-| **Robotics & Systems** | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) <br> **Systems Integration:** Vision-Based Tactile Sensing (DIGIT), HRI, Electro-Mechanical Systems |
-| **Data & Signal Processing** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) <br> **Analytics & Control:** Dense Optical Flow (Farnebäck), Noise Filtering, Statistical Analysis, DOE, SPC |
-| **Infrastructure & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> **Data Visualization & Software:** JMP, Power BI, Excel |
+#### 🤖 Robotics & Systems Integration
+![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* **Hardware & Interaction:** Vision-Based Tactile Sensing (DIGIT / GelSight), Human-Robot Interaction (HRI), Real-Time Actuation.
+
+#### 📊 Data, Analytics & Control
+![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+* **Signal & Process Engineering:** Dense Optical Flow (Farnebäck), Design of Experiments (DOE), Statistical Process Control (SPC), Noise Filtering.
+
+#### 🛠️ Infrastructure & Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+* **Engineering Tools:** JMP, Excel, Custom Data-Generation Pipelines.
 
 ---
 
