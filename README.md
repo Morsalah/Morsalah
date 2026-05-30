@@ -2,7 +2,7 @@
 
 I am an **M.Sc. Researcher** at Tel Aviv University.My expertise lies at the intersection of applied Deep Learning, Computer Vision, and physical robotic deployment. 
 
-With a unique background spanning semiconductor manufacturing engineering at ![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white), infrastructure modeling at ![Exyte](https://img.shields.io/badge/Exyte-00457C?style=flat-square&logoColor=white), manufacturing optimization at ![ADAMA](https://img.shields.io/badge/ADAMA-009639?style=flat-square&logoColor=white), and cutting-edge robotics research at ![Tel Aviv University](https://img.shields.io/badge/Tel__Aviv__University-002F6C?style=flat-square&logoColor=white), I specialize in bridging advanced AI models with low-latency, and real-time physical systems.
+With a unique background spanning semiconductor manufacturing engineering at ![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white), infrastructure modeling at ![Exyte](https://img.shields.io/badge/Exyte-00457C?style=flat-square&logoColor=white), manufacturing optimization at ![ADAMA](https://img.shields.io/badge/ADAMA-009639?style=flat-square&logoColor=white), and cutting-edge robotics research at ![Tel Aviv University](https://img.shields.io/badge/Tel_Aviv__University-002F6C?style=flat-square&logoColor=white), I specialize in bridging advanced AI models with low-latency, and real-time physical systems.
 
 ---
 
@@ -13,27 +13,38 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
 
 ---
 
-### 🛠️ Technical Toolbox
-#### 🧠 Core AI & Computer Vision
+🧠 Core Technical Skills
+
+💻 Languages & AI Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-* **Architectures & Methods:** Vision Transformers (ViT), Temporal/Time-Series Modeling, Spatio-Temporal Sequences.
+* **Core Architectures:** Vision Transformers (ViT) & Temporal/Sequence Modeling
 
-#### 🤖 Robotics & Systems Integration
+🛠️ Tools & Technologies
 ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-* **Hardware & Interaction:** Vision-Based Tactile Sensing (DIGIT / GelSight), Human-Robot Interaction (HRI), Real-Time Actuation.
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* **Robotics & Vision Hardware:** Vision-Based Tactile Sensing (DIGIT, GelSight)
 
-#### 📊 Data, Analytics & Control
+📊 Data Analytics & Visualization
 ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-* **Signal & Process Engineering:** Dense Optical Flow (Farnebäck), Design of Experiments (DOE), Statistical Process Control (SPC), Noise Filtering.
+* **Analytics Software:** JMP, Microsoft Excel
 
-#### 🛠️ Infrastructure & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-* **Engineering Tools:** JMP, Excel, Custom Data-Generation Pipelines.
+🧩 Systems & Software Engineering
+* Robotic System Integration & End-to-End Deployment
+* Real-Time Low-Latency Inference Optimization (~148ms Loop)
+* Sensation-to-Actuation Control Loops
+* Dense Optical Flow (Farnebäck) & Sensor Signal Filtering
+* Electro-Mechanical System Validation
+
+⚙️ Process & Production Engineering
+* Statistical Process Control (SPC)
+* Design of Experiments (DOE) Workflows
+* Root-Cause Analysis & System Stabilization
+* Predictive Modeling & Scenario Simulation (Pipeflow)
+* Multi-Variable Data Synthesis & Technical Roadmapping
 
 ---
 
