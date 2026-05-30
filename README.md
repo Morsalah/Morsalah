@@ -17,14 +17,13 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
 ### 💻 Languages & AI Frameworks
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
 </p>
 
-**Core Architectures:** Vision Transformers (ViT) • Temporal Modeling • Sequence Learning
+**Core Architectures:** Vision Transformers (ViT) • Transformers 
 
 ---
 
@@ -34,12 +33,10 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
 
-**Robotics & Vision Hardware:** DIGIT • GelSight • Tactile Sensing
+**Robotics & Vision Hardware:** DIGIT • Tactile Sensing
 
 ---
 
@@ -50,7 +47,7 @@ With a unique background spanning semiconductor manufacturing engineering at ![I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
 </p>
 
-**Analytics Software:** Power BI • JMP • Microsoft Excel
+**Analytics Software:** • JMP • Microsoft Excel
 
 🧩 Systems & Software Engineering
 * Robotic System Integration & End-to-End Deployment
