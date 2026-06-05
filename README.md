@@ -4,8 +4,9 @@
 ### System Demonstration: Real-Time Handover State Prediction
 
 | Successful Release Event |
-| :---: |
+<p align="center">
 | <img src="images/Good_Release_GIF.gif" width="350" alt="Successful Release"> |
+</p>
 | **Model Detects Release Intent (~148ms)** <br> Triggers physical gripper actuation.|
 
 # system architecture diagram
