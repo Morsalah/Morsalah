@@ -1,7 +1,7 @@
 # Hi there, I'm Mor Salah 👋
 
 ## Robotics Researcher | Real-Time Perception System
-### 🎥 System Demonstration: Real-Time Handover State Prediction
+### System Demonstration: Real-Time Handover State Prediction
 
 | Successful Release Event | Intent to Hold |
 | :---: | :---: |
