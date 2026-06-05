@@ -1,4 +1,5 @@
 # Hi there, I'm Mor Salah 👋
+## Robotics Researcher | Real-Time Perception System
 
 I am an **M.Sc. Researcher at Tel Aviv University** specializing in real-time robotic perception system operating at the intersection of:
 
@@ -10,8 +11,6 @@ I am an **M.Sc. Researcher at Tel Aviv University** specializing in real-time ro
 My work focuses on enabling robot to understand human intent through tactile sensing and transformer-based perception model deployed directly on physical robotic system.
 
 With a background spanning semiconductor manufacturing engineering at Intel, infrastructure modeling at Exyte, manufacturing optimization at ADAMA, and advanced robotic research at Tel Aviv University, I apply this core expertise in complex systems engineering, leveraging advanced AI and computer vision to build deployment-ready systems.
-
-## Robotics Researcher | Real-Time Perception System
 
 <div align="center">
 <h3>System Demonstration: Real-Time Handover State Prediction</h3>
@@ -25,7 +24,7 @@ With a background spanning semiconductor manufacturing engineering at Intel, inf
 </p>
 </div>
 
-# system architecture diagram
+# System Architecture Diagram
 <p align="center">
   <img src="images/system.png" width="1000">
 </p>
