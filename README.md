@@ -16,7 +16,7 @@
 
 # system architecture diagram
 <p align="center">
-  <img src="images/figure 4.5.png" width="1000">
+  <img src="images/system.png" width="1000">
 </p>
 
 <p align="center">
