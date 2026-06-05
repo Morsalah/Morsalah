@@ -1,12 +1,12 @@
 # Hi there, I'm Mor Salah 👋
 
 ## Robotics Researcher | Real-Time Perception System
-### System Demonstration: Real-Time Handover State Prediction
+
 
 <div align="center">
+### System Demonstration: Real-Time Handover State Prediction
 ### Successful Release Event
 <img src="images/Good_Release_GIF.gif" width="350" alt="Successful Release">
-<br>
 **Model Detects Release Intent (~148ms)**  
 Triggers physical gripper actuation.
 </div>
