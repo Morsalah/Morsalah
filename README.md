@@ -88,7 +88,7 @@ My research develops an end-to-end tactile perception framework that transforms 
 
 ---
 
-## 🧠 Core Technical Skills
+##  Core Technical Skills
 ### 💻 AI & Machine Learning
 
 <p align="left">
@@ -126,27 +126,23 @@ My research develops an end-to-end tactile perception framework that transforms 
 * Dense Optical Flow (Farnebäck)
 * Motion Representation Learning
 ---
-### Industrial Engineering Background
+##  Industrial Engineering Foundation
+### Systems Optimization & Process Control
 
-My engineering background extends beyond AI and Robotics into large-scale industrial systems.
+* **Intel Corporation**
+  * **Statistical Process Control (SPC):** Advanced data analytics (JMP/Excel) to stabilize high-volume manufacturing parameters (CD, Overlay, Dose).
+  * **Design of Experiments (DOE):** Systematic matrix evaluations to mitigate recurring process anomalies and establish robust operational windows.
+  * **Root-Cause Analysis (RCA):** Systematic troubleshooting of complex production excursions to minimize equipment downtime.
 
-**Intel**
+* **ADAMA Ltd.**
+  * **Complex Systems Commissioning:** Scale-up and functional validation of advanced chemical manufacturing infrastructure and automated control system loops.
+  * **Process-Mechanical Troubleshooting:** Cross-functional root-cause resolution of electromechanical anomalies during early operational phases.
+  * **Multidisciplinary System Validation:** Collaborative performance testing to ensure end-to-end operational readiness and safety standards.
 
-* Statistical Process Control (SPC)
-* Root Cause Analysis
-* Design of Experiments (DOE)
-
-**ADAMA**
-
-* Production System Validation
-* Process-Mechanical Troubleshooting
-* Facility Commissioning
-
-**Exyte**
-
-* Predictive Modeling
-* Infrastructure Simulation
-* Technical Roadmapping
+* **Exyte**
+  * **Predictive Modeling & Simulation:** Data-driven scenario forecasting using Pipeflow to optimize infrastructure reliability and performance.
+  * **Infrastructure Simulation:** Quantitative trade-off analysis of equipment scalability, system redesigns, and resource timing.
+  * **Technical Roadmapping:** Translating multi-variable simulations into actionable infrastructure roadmaps for executive and engineering stakeholders.
 
 ---
 
