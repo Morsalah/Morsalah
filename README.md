@@ -150,14 +150,6 @@ My research develops an end-to-end tactile perception framework that transforms 
 
 ## 🤖 Tactile-Handover-Transformer
 
-<p align="center">
-  <img src="images/figure 3.2.png" width="900">
-</p>
-
-<p align="center">
-  <b>Real-Time Deployment Pipeline</b>
-</p>
-
 ### Real-Time Tactile Human-Robot Handover Recognition
 
 An end-to-end robotic perception-to-action framework enabling robots to detect human handover intent directly from tactile sensor feedback.
