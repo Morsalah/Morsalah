@@ -6,7 +6,7 @@ I am an **M.Sc. Researcher at Tel Aviv University** specializing in real-time ro
 🤖 Robotics
 🧠 Artificial Intelligence
 👁️ Computer Vision
-⚡ Real-Time Systems
+⚡ Real-Time System
 
 My work focuses on enabling robot to understand human intent through tactile sensing and transformer-based perception model deployed directly on physical robotic system.
 
