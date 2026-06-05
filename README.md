@@ -3,8 +3,8 @@
 ## Robotics Researcher | Real-Time Perception System
 ### System Demonstration: Real-Time Handover State Prediction
 
-| Successful Release Event | Intent to Hold |
-| :---: | :---: |
+| Successful Release Event |
+| :---: |
 | <img src="images/Good_Release_GIF.gif" width="350" alt="Successful Release"> |
 | **Model Detects Release Intent (~148ms)** <br> Triggers physical gripper actuation.|
 
