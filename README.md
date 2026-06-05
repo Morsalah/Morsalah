@@ -2,13 +2,16 @@
 
 ## Robotics Researcher | Real-Time Perception System
 
-
 <div align="center">
-### System Demonstration: Real-Time Handover State Prediction
-### Successful Release Event
+<h3>System Demonstration: Real-Time Handover State Prediction</h3>
+<h4>Successful Release Event</h4>
 <img src="images/Good_Release_GIF.gif" width="350" alt="Successful Release">
-**Model Detects Release Intent (~148ms)**  
-Triggers physical gripper actuation.
+<br><br>
+<p>
+  <strong>Model Detects Release Intent (~148ms)</strong>
+  <br>
+  Triggers physical gripper actuation.
+</p>
 </div>
 
 # system architecture diagram
