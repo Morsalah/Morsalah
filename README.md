@@ -55,8 +55,11 @@ My research develops an end-to-end tactile perception framework that transforms 
 ### Research Highlights
 
 • Built a complete ROS-based tactile perception and robotic control pipeline
+
 • Developed a motion-centric tactile representation robust to DIGIT sensor degradation and illumination artifacts
+
 • Designed a hybrid Vision Transformer (ViT) + Temporal Transformer architecture
+
 • Collected and curated a dataset containing:
 
 * 23,274 tactile interaction sequences
