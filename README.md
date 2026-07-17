@@ -1,19 +1,16 @@
 # Hi, I'm Mor Salah 👋
 ## Robotics Researcher | Real-Time Perception System
 
-I am an **M.Sc. Researcher at Tel Aviv University** specializing in real-time robotic perception system operating at the intersection of:
+I am an engineer with 7+ years of experience in semiconductor manufacturing, process engineering, statistical data analysis, and multidisciplinary engineering across high-volume manufacturing and applied research environments.
 
-🤖 Robotics
-🧠 Artificial Intelligence
-👁️ Computer Vision
-⚡ Real-Time System
+Throughout my career at Intel, Exyte, and ADAMA, I have worked on process optimization, system validation, engineering modeling, failure analysis, and data-driven decision making to improve manufacturing performance and operational reliability.
 
-My work focuses on enabling robot to understand human intent through tactile sensing and transformer-based perception model deployed directly on physical robotic system.
+As an M.Sc. Researcher at Tel Aviv University, I extend this experience through the development of intelligent sensing systems, machine learning models, experimental design, and real-time data analysis. My research combines hardware, software, and AI to solve complex engineering problems in multidisciplinary environments.
 
-With a background spanning semiconductor manufacturing engineering at Intel, infrastructure modeling at Exyte, manufacturing optimization at ADAMA, and advanced robotic research at Tel Aviv University, I apply this core expertise in complex systems engineering, leveraging advanced AI and computer vision to build deployment-ready systems.
+I am passionate about applying engineering, data analytics, and machine learning to develop reliable, high-performance systems and solve real-world manufacturing and product challenges.
 
 <div align="center">
-<h3>System Demonstration: Real-Time Handover State Prediction</h3>
+<h3>End-to-End Real-Time Intelligent Sensing System</h3>
 <h4>Successful Release Event</h4>
 <img src="images/Good_Release_GIF.gif" width="350" alt="Successful Release">
 <br><br>
@@ -33,8 +30,7 @@ With a background spanning semiconductor manufacturing engineering at Intel, inf
   <b>End-to-End Real-Time Tactile Human-Robot Handover System</b>
 </p>
 
-Building tactile intelligence for human-robot collaboration through Deep Learning, Computer Vision, and Physical Robotics.
-
+End-to-End Engineering System integrating tactile sensing, machine learning, real-time processing, and system validation.
 ---
 
 ## 🔬 Current Research
