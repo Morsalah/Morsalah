@@ -1,5 +1,5 @@
-# Hi, I'm Mor Salah 👋
-## Robotics Researcher | Real-Time Perception System
+# Hi, I'm Mor Salah 
+## M.Sc. Researcher | Machine Learning | Intelligent Sensing | Real-Time System
 
 I am an engineer with 7+ years of experience in semiconductor manufacturing, process engineering, statistical data analysis, and multidisciplinary engineering across high-volume manufacturing and applied research environments.
 
@@ -21,13 +21,13 @@ I am passionate about applying engineering, data analytics, and machine learning
 </p>
 </div>
 
-# System Architecture Diagram
+# System Architecture 
 <p align="center">
   <img src="images/system.png" width="1000">
 </p>
 
 <p align="center">
-  <b>End-to-End Real-Time Tactile Human-Robot Handover System</b>
+  <b>End-to-End Real-Time Intelligent Sensing System</b>
 </p>
 
 End-to-End Engineering System integrating tactile sensing, machine learning, real-time processing, and system validation.
