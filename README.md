@@ -43,6 +43,8 @@ My research develops an end-to-end tactile perception framework that transforms 
 
 • Designed a hybrid Vision Transformer (ViT) + Temporal Transformer architecture
 
+• Successfully deployed on physical robotic hardware
+
 • Collected and curated a dataset containing:
 
 * 23,274 tactile interaction sequences
@@ -54,7 +56,6 @@ My research develops an end-to-end tactile perception framework that transforms 
 * 89% Test Accuracy on unseen objects
 * 87% Accuracy during real-time robotic deployment
 
-• Successfully deployed on physical robotic hardware
 ---
 ## 📊 Research Results
 
@@ -95,7 +96,7 @@ End-to-End Engineering System integrating tactile sensing, machine learning, rea
 ---
 
 ##  Core Technical Skills
-### 💻 AI & Machine Learning
+### AI & Machine Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
@@ -110,7 +111,7 @@ End-to-End Engineering System integrating tactile sensing, machine learning, rea
 * Temporal Transformers
 * Real-Time Inference
 ---
-## 🤖 Robotics & Real-Time Systems
+## Real-Time Systems
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
@@ -126,11 +127,6 @@ End-to-End Engineering System integrating tactile sensing, machine learning, rea
 * Multi-Threaded Architectures
 * Deployment on Physical Hardware
 * ROS Noetic
----
-## 👁️ Computer Vision
-* Image Processing
-* Dense Optical Flow (Farnebäck)
-* Motion Representation Learning
 ---
 
 # 📈 Featured Project
