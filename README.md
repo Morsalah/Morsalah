@@ -9,46 +9,22 @@ As an M.Sc. Researcher at Tel Aviv University, I extend this experience through 
 
 I am passionate about applying engineering, data analytics, and machine learning to develop reliable, high-performance systems and solve real-world manufacturing and product challenges.
 
-<div align="center">
-<h3>End-to-End Real-Time Intelligent Sensing System</h3>
-<h4>Successful Release Event</h4>
-<img src="images/Good_Release_GIF.gif" width="350" alt="Successful Release">
-<br><br>
-<p>
-  <strong>Model Detects Release Intent (~148ms)</strong>
-  <br>
-  Triggers physical gripper actuation.
-</p>
-</div>
+## Research Overview
+**Real-Time Tactile Sensing for Human-Robot Handover** 
+M.Sc. Thesis (Paper submitted - Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition)
 
-# System Architecture 
-<p align="center">
-  <img src="images/system.png" width="1000">
-</p>
-
-<p align="center">
-  <b>End-to-End Real-Time Intelligent Sensing System</b>
-</p>
-
-End-to-End Engineering System integrating tactile sensing, machine learning, real-time processing, and system validation.
----
-
-## 🔬 Current Research
-
-### M.Sc. Thesis
-
-**Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition**
-
-Human-robot handovers require robots to understand when a human intends to take an object.
+Developed an end-to-end real-time tactile sensing system that predicts human release intent from tactile sensor data and enables autonomous robotic object handover.
 My research develops an end-to-end tactile perception framework that transforms raw tactile sensor streams into robotic actions using:
 
-* Dense Optical Flow
-* Vision Transformers (ViT)
-* Temporal Transformers
-* Real-Time ROS Deployment
-* Closed-Loop Robotic Control
+## Core Technologies
+Tactile Sensing
+Machine Learning
+Vision Transformer (ViT)
+Temporal Transformer
+ROS Noetic
+Real-Time Inference
 
-### Research Highlights
+### Key Contributions
 
 • Built a complete ROS-based tactile perception and robotic control pipeline
 
@@ -82,6 +58,29 @@ My research develops an end-to-end tactile perception framework that transforms 
 | Deployment Platform           | ROS Noetic            |
 | Sensor Platform               | DIGIT Tactile Sensors |
 
+---
+<div align="center">
+<h3>End-to-End Real-Time Intelligent Sensing System</h3>
+<h4>Successful Release Event</h4>
+<img src="images/Good_Release_GIF.gif" width="350" alt="Successful Release">
+<br><br>
+<p>
+  <strong>Model Detects Release Intent (~148ms)</strong>
+  <br>
+  Triggers physical gripper actuation.
+</p>
+</div>
+
+# System Architecture 
+<p align="center">
+  <img src="images/system.png" width="1000">
+</p>
+
+<p align="center">
+  <b>End-to-End Real-Time Intelligent Sensing System</b>
+</p>
+
+End-to-End Engineering System integrating tactile sensing, machine learning, real-time processing, and system validation.
 ---
 
 ##  Core Technical Skills
