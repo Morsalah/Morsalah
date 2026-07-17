@@ -57,7 +57,7 @@ My research develops an end-to-end tactile perception framework that transforms 
 * 87% Accuracy during real-time robotic deployment
 
 ---
-## 📊 Research Results
+## Research Results
 
 | Metric                        | Result                |
 | ----------------------------- | --------------------- |
@@ -104,7 +104,7 @@ End-to-End Engineering System integrating tactile sensing, machine learning, rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
 </p>
 
-## Real-Time Systems
+### Real-Time Systems
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
