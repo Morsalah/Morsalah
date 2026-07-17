@@ -1,4 +1,4 @@
-# Hi, I'm Mor Salah 
+# Hi, I'm Mor 
 ## M.Sc. Researcher | Machine Learning | Intelligent Sensing | Real-Time System
 
 I am an engineer with 7+ years of experience in semiconductor manufacturing, process engineering, statistical data analysis, and multidisciplinary engineering across high-volume manufacturing and applied research environments.
