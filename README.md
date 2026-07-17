@@ -9,21 +9,31 @@ As an M.Sc. Researcher at Tel Aviv University, I extend this experience through 
 
 I am passionate about applying engineering, data analytics, and machine learning to develop reliable, high-performance systems and solve real-world manufacturing and product challenges.
 
+##  Industrial Engineering Foundation
+
+* **Intel Corporation**
+  * **Statistical Process Control (SPC):** Advanced data analytics (JMP/Excel) to stabilize high-volume manufacturing parameters (CD, Overlay, Dose).
+  * **Design of Experiments (DOE):** Systematic matrix evaluations to mitigate recurring process anomalies and establish robust operational windows.
+  * **Root-Cause Analysis (RCA):** Systematic troubleshooting of complex production excursions to minimize equipment downtime.
+
+* **ADAMA Ltd.**
+  * **Complex Systems Commissioning:** Scale-up and functional validation of advanced chemical manufacturing infrastructure and automated control system loops.
+  * **Process-Mechanical Troubleshooting:** Cross-functional root-cause resolution of electromechanical anomalies during early operational phases.
+  * **Multidisciplinary System Validation:** Collaborative performance testing to ensure end-to-end operational readiness and safety standards.
+
+* **Exyte**
+  * **Predictive Modeling & Simulation:** Data-driven scenario forecasting using Pipeflow to optimize infrastructure reliability and performance.
+  * **Infrastructure Simulation:** Quantitative trade-off analysis of equipment scalability, system redesigns, and resource timing.
+  * **Technical Roadmapping:** Translating multi-variable simulations into actionable infrastructure roadmaps for executive and engineering stakeholders.
+---
 ## Research Overview
+
 **Real-Time Tactile Sensing for Human-Robot Handover** 
 
 M.Sc. Thesis (Paper submitted - Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition)
 
 Developed an end-to-end real-time tactile sensing system that predicts human release intent from tactile sensor data and enables autonomous robotic object handover.
 My research develops an end-to-end tactile perception framework that transforms raw tactile sensor streams into robotic actions using:
-
-## Core Technologies
-Tactile Sensing
-Machine Learning
-Vision Transformer (ViT)
-Temporal Transformer
-ROS Noetic
-Real-Time Inference
 
 ### Key Contributions
 
@@ -122,25 +132,6 @@ End-to-End Engineering System integrating tactile sensing, machine learning, rea
 * Dense Optical Flow (Farnebäck)
 * Motion Representation Learning
 ---
-##  Industrial Engineering Foundation
-### Systems Optimization & Process Control
-
-* **Intel Corporation**
-  * **Statistical Process Control (SPC):** Advanced data analytics (JMP/Excel) to stabilize high-volume manufacturing parameters (CD, Overlay, Dose).
-  * **Design of Experiments (DOE):** Systematic matrix evaluations to mitigate recurring process anomalies and establish robust operational windows.
-  * **Root-Cause Analysis (RCA):** Systematic troubleshooting of complex production excursions to minimize equipment downtime.
-
-* **ADAMA Ltd.**
-  * **Complex Systems Commissioning:** Scale-up and functional validation of advanced chemical manufacturing infrastructure and automated control system loops.
-  * **Process-Mechanical Troubleshooting:** Cross-functional root-cause resolution of electromechanical anomalies during early operational phases.
-  * **Multidisciplinary System Validation:** Collaborative performance testing to ensure end-to-end operational readiness and safety standards.
-
-* **Exyte**
-  * **Predictive Modeling & Simulation:** Data-driven scenario forecasting using Pipeflow to optimize infrastructure reliability and performance.
-  * **Infrastructure Simulation:** Quantitative trade-off analysis of equipment scalability, system redesigns, and resource timing.
-  * **Technical Roadmapping:** Translating multi-variable simulations into actionable infrastructure roadmaps for executive and engineering stakeholders.
-
----
 
 # 📈 Featured Project
 
@@ -159,27 +150,6 @@ An end-to-end robotic perception-to-action framework enabling robots to detect h
 * Dual-gate decision logic for stable operation
 * Physical robotic validation
 
----
-
-## 📚 Publication- On Going
-
-### Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition
-
-Submitte to:
-
-**IEEE Robotics and Automation Letters (RA-L)**
-
-2026
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
 
 ## 🤝 Connect With Me
 
