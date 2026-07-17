@@ -111,25 +111,7 @@ End-to-End Engineering System integrating tactile sensing, machine learning, rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
 
-# 📈 Featured Project
-
-## 🤖 Tactile-Handover-Transformer
-
-### Real-Time Tactile Human-Robot Handover Recognition
-
-An end-to-end robotic perception-to-action framework enabling robots to detect human handover intent directly from tactile sensor feedback.
-
-### Key Contributions
-
-* Dense Optical Flow tactile preprocessing pipeline
-* Hybrid ViT + Temporal Transformer architecture
-* ROS-integrated deployment framework
-* Real-time tactile inference engine
-* Dual-gate decision logic for stable operation
-* Physical robotic validation
-
-
-## 🤝 Connect With Me
+## Connect Details
 
 💼 LinkedIn
 https://www.linkedin.com/in/mor-salah/
