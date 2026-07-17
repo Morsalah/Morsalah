@@ -104,30 +104,12 @@ End-to-End Engineering System integrating tactile sensing, machine learning, rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
 </p>
 
-**Core Areas**
-* Deep Learning
-* Image Procesing
-* Vision Transformers (ViT)
-* Temporal Transformers
-* Real-Time Inference
----
 ## Real-Time Systems
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
-
-### Expertise
-* Human-Robot Interaction (HRI)
-* Vision-Based Tactile Sensing
-* Real-Time Robotic Perception
-* Closed-Loop Control Systems
-* Finite State Machines (FSM)
-* Multi-Threaded Architectures
-* Deployment on Physical Hardware
-* ROS Noetic
----
 
 # 📈 Featured Project
 
