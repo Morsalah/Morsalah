@@ -11,6 +11,7 @@ I am passionate about applying engineering, data analytics, and machine learning
 
 ## Research Overview
 **Real-Time Tactile Sensing for Human-Robot Handover** 
+
 M.Sc. Thesis (Paper submitted - Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition)
 
 Developed an end-to-end real-time tactile sensing system that predicts human release intent from tactile sensor data and enables autonomous robotic object handover.
