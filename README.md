@@ -9,6 +9,14 @@ As an M.Sc. Researcher at Tel Aviv University, I extend this experience through 
 
 I am passionate about applying engineering, data analytics, and machine learning to develop reliable, high-performance systems and solve real-world manufacturing and product challenges.
 
+##  Engineering Experience
+
+| Company   | Engineering Focus                                                                                   |
+| --------- | --------------------------------------------------------------------------------------------------- |
+| **Intel** | Semiconductor Process Engineering • SPC • DOE • Failure Analysis • Process Optimization             |
+| **Exyte** | Manufacturing Infrastructure Engineering • Engineering Modeling • Capacity Planning • Risk Analysis |
+| **ADAMA** | Manufacturing Commissioning • System Validation • Equipment Qualification • Troubleshooting         |
+
 ## Core Expertise
 
 • Semiconductor Manufacturing
@@ -25,21 +33,14 @@ I am passionate about applying engineering, data analytics, and machine learning
 
 • Real-Time Intelligent Systems
 
-##  Engineering Experience
-
-| Company   | Engineering Focus                                                                                   |
-| --------- | --------------------------------------------------------------------------------------------------- |
-| **Intel** | Semiconductor Process Engineering • SPC • DOE • Failure Analysis • Process Optimization             |
-| **Exyte** | Manufacturing Infrastructure Engineering • Engineering Modeling • Capacity Planning • Risk Analysis |
-| **ADAMA** | Manufacturing Commissioning • System Validation • Equipment Qualification • Troubleshooting         |
-
 ---
 ## Research Overview
 
 **Real-Time Tactile Sensing for Human-Robot Handover** 
 
 M.Sc. Thesis (Paper submitted - Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition)
-My research develops an end-to-end tactile perception framework that transforms raw tactile sensor streams into robotic actions using:
+
+My research develops an end-to-end tactile perception framework that transforms raw tactile sensor streams into robotic actions.
 
 ### Key Contributions
 
@@ -100,7 +101,7 @@ End-to-End Engineering System integrating tactile sensing, machine learning, rea
 ---
 
 ##  Core Technical Skills
-### AI & Machine Learning
+### Machine Learning & Data Science
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
