@@ -1,5 +1,5 @@
 # Hi, I'm Mor 
-## M.Sc. Researcher | Machine Learning | Intelligent Sensing | Real-Time System
+## M.Sc. Semiconductor Engineer | Machine Learning | Intelligent Systems | M.Sc. Researcher
 
 I am an engineer with 7+ years of experience in semiconductor manufacturing, process engineering, statistical data analysis, and multidisciplinary engineering across high-volume manufacturing and applied research environments.
 
@@ -9,39 +9,43 @@ As an M.Sc. Researcher at Tel Aviv University, I extend this experience through 
 
 I am passionate about applying engineering, data analytics, and machine learning to develop reliable, high-performance systems and solve real-world manufacturing and product challenges.
 
-##  Industrial Engineering Foundation
+## Core Expertise
 
-* **Intel Corporation**
-  * **Statistical Process Control (SPC):** Advanced data analytics (JMP/Excel) to stabilize high-volume manufacturing parameters (CD, Overlay, Dose).
-  * **Design of Experiments (DOE):** Systematic matrix evaluations to mitigate recurring process anomalies and establish robust operational windows.
-  * **Root-Cause Analysis (RCA):** Systematic troubleshooting of complex production excursions to minimize equipment downtime.
+• Semiconductor Manufacturing
 
-* **ADAMA Ltd.**
-  * **Complex Systems Commissioning:** Scale-up and functional validation of advanced chemical manufacturing infrastructure and automated control system loops.
-  * **Process-Mechanical Troubleshooting:** Cross-functional root-cause resolution of electromechanical anomalies during early operational phases.
-  * **Multidisciplinary System Validation:** Collaborative performance testing to ensure end-to-end operational readiness and safety standards.
+• Product & Process Engineering
 
-* **Exyte**
-  * **Predictive Modeling & Simulation:** Data-driven scenario forecasting using Pipeflow to optimize infrastructure reliability and performance.
-  * **Infrastructure Simulation:** Quantitative trade-off analysis of equipment scalability, system redesigns, and resource timing.
-  * **Technical Roadmapping:** Translating multi-variable simulations into actionable infrastructure roadmaps for executive and engineering stakeholders.
+• Statistical Data Analysis (JMP, SPC, DOE)
+
+• Failure Analysis & Root Cause Investigation
+
+• Machine Learning
+
+• Python & SQL
+
+• Real-Time Intelligent Systems
+
+##  Engineering Experience
+
+| Company   | Engineering Focus                                                                                   |
+| --------- | --------------------------------------------------------------------------------------------------- |
+| **Intel** | Semiconductor Process Engineering • SPC • DOE • Failure Analysis • Process Optimization             |
+| **Exyte** | Manufacturing Infrastructure Engineering • Engineering Modeling • Capacity Planning • Risk Analysis |
+| **ADAMA** | Manufacturing Commissioning • System Validation • Equipment Qualification • Troubleshooting         |
+
 ---
 ## Research Overview
 
 **Real-Time Tactile Sensing for Human-Robot Handover** 
 
 M.Sc. Thesis (Paper submitted - Seeing Contact Move: A Transformer-Based Framework for Real-Time Tactile Human-Robot Handover Recognition)
-
-Developed an end-to-end real-time tactile sensing system that predicts human release intent from tactile sensor data and enables autonomous robotic object handover.
 My research develops an end-to-end tactile perception framework that transforms raw tactile sensor streams into robotic actions using:
 
 ### Key Contributions
 
-• Built a complete ROS-based tactile perception and robotic control pipeline
+• Designed and trained a hybrid Vision Transformer + Temporal Transformer architecture.
 
-• Developed a motion-centric tactile representation robust to DIGIT sensor degradation and illumination artifacts
-
-• Designed a hybrid Vision Transformer (ViT) + Temporal Transformer architecture
+• Built an end-to-end real-time tactile sensing pipeline.
 
 • Successfully deployed on physical robotic hardware
 
