@@ -99,22 +99,19 @@ My research develops an end-to-end tactile perception framework that transforms 
 
 End-to-End Engineering System integrating tactile sensing, machine learning, real-time processing, and system validation.
 ---
-
 ##  Core Technical Skills
-### Machine Learning & Data Science
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
-</p>
+### Engineering
+Semiconductor Manufacturing • Product Characterization • Process Characterization • Process Optimization • Failure Analysis • Root Cause Analysis • System Validation • DOE • SPC
 
-### Real-Time Systems
+### Data
+Python • SQL • JMP • Statistical Analysis • Data Visualization • Excel
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-</p>
+### AI
+Machine Learning • Deep Learning • PyTorch • OpenCV • Predictive Modeling
+
+### Systems
+ROS • Linux • Git • GitHub
 
 ## Connect Details
 
